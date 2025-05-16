@@ -70,8 +70,14 @@ To make it permanent, go to:
 For help: [Java Environment Setup (Windows)](https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html)
 
 ---
+## 📊 5. Dataset
+and here is the dataset used in this app: [Dataset](https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in)
 
-## ▶️ 5. Run the Application
+
+
+
+---
+## ▶️ 6. Run the Application
 before running the application, go to:
 > main.py → Set `BUILD_INDEX` to TRUE
 > 
@@ -89,7 +95,6 @@ python gui.py
 
 - [PyTerrier Documentation](https://pyterrier.readthedocs.io/)
 - [NLTK Data](https://www.nltk.org/data.html)
-- [TensorFlow Hub - ELMo](https://tfhub.dev/google/elmo/3)
 - [SentenceTransformers - BERT](https://www.sbert.net/)
 - [Java Installation (Oracle)](https://docs.oracle.com/javase/8/docs/technotes/guides/install/windows_jdk_install.html)
 
