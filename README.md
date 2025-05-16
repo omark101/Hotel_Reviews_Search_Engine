@@ -70,13 +70,8 @@ Hotel_Reviews_Search_Engine/
 
 Pull requests are welcome.
 
-if you are intersted please refer to the "Setup" file 
+if you are intersted please refer to the "Setup.md" file.
 ---
-
-<span style="color:green;font-weight:700;font-size:20px">
-    markdown color font styles
-</span>
-
 
 ## 📝 License
 
