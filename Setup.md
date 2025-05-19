@@ -71,7 +71,7 @@ For help: [Java Environment Setup (Windows)](https://confluence.atlassian.com/do
 
 ---
 ## 📊 5. Dataset
-and here is the dataset used in this app: [Dataset](https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in)
+and here is the dataset used in this app: [Dataset](https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe)
 
 
 
