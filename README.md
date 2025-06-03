@@ -1,7 +1,7 @@
 # 🔍 Hotel Reviews Search Engine
 
 [![Python](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/)
-[![CustomTkinter](https://img.shields.io/badge/UI-CustomTkinter-45b8d8)](https://github.com/TomSchimansky/CustomTkinter)
+[![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-45b8d8)](https://github.com/TomSchimansky/CustomTkinter)
 [![License: Academic](https://img.shields.io/badge/license-University_Project-green)](#license)
 
 ---
